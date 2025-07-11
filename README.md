@@ -15,7 +15,7 @@ This project provides an interactive **Streamlit-based application** that modera
   - Uses CNN to classify image-related captions into categories.
 
 
-## ModelS Overview
+## Model Overview
 
 ### 1. CNN Text Classifier
 - Built with `TensorFlow` and `Keras`.
